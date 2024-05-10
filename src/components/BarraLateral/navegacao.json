@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "texto": "Início",
+    "iconeAtivo": "/icones/home-ativo.png",
+    "iconeInativo": "/icones/home-inativo.png"
+  },
+  {
+    "id": 1,
+    "texto": "Mais vistas",
+    "iconeAtivo": "/icones/mais-vistas-ativo.png",
+    "iconeInativo": "/icones/mais-vistas-inativo.png"
+  },
+  {
+    "id": 2,
+    "texto": "Mais curtidas",
+    "iconeAtivo": "/icones/mais-curtidas-ativo.png",
+    "iconeInativo": "/icones/mais-curtidas-inativo.png"
+  },
+  {
+    "id": 3,
+    "texto": "Novas",
+    "iconeAtivo": "/icones/novas-ativo.png",
+    "iconeInativo": "/icones/novas-inativo.png"
+  },
+  {
+    "id": 4,
+    "texto": "Surpreenda-me",
+    "iconeAtivo": "/icones/surpreenda-me-ativo.png",
+    "iconeInativo": "/icones/surpreenda-me-inativo.png"
+  }
+]
